@@ -6,6 +6,18 @@
 	path = Tweaks/YouPiP
 	url = https://github.com/PoomSmart/YouPiP.git
 	branch = main
+[submodule "Tweaks/YouMute"]
+	path = Tweaks/YouMute
+	url = https://github.com/PoomSmart/YouMute.git
+	branch = main
+[submodule "Tweaks/YouQuality"]
+	path = Tweaks/YouQuality
+	url = https://github.com/PoomSmart/YouQuality.git
+	branch = main
+[submodule "Tweaks/YTVideoOverlay"]
+	path = Tweaks/YTVideoOverlay
+	url = https://github.com/PoomSmart/YTVideoOverlay.git
+	branch = main
 [submodule "Tweaks/Return-YouTube-Dislikes"]
 	path = Tweaks/Return-YouTube-Dislikes
 	url = https://github.com/PoomSmart/Return-YouTube-Dislikes.git
@@ -14,10 +26,6 @@
 	path = Tweaks/YouTubeHeader
 	url = https://github.com/PoomSmart/YouTubeHeader.git
 	branch = main
-[submodule "Tweaks/PSHeader"]
-	path = Tweaks/PSHeader
-	url = https://github.com/PoomSmart/PSHeader.git
-	branch = master
 [submodule "Extensions"]
 	path = Extensions
 	url = https://github.com/CokePokes/YoutubeExtensions.git
@@ -28,7 +36,8 @@
 	branch = main
 [submodule "Tweaks/FLEXing"]
 	path = Tweaks/FLEXing
-	url = https://github.com/NSExceptional/FLEXing
+	url = https://github.com/PoomSmart/FLEXing
+	branch = rootless
 [submodule "Tweaks/Alderis"]
 	path = Tweaks/Alderis
 	url = https://github.com/hbang/Alderis.git
@@ -42,3 +51,15 @@
 	path = Tweaks/iSponsorBlock
 	url = https://github.com/Galactic-Dev/iSponsorBlock.git
 	branch = master
+[submodule "Tweaks/IAmYouTube"]
+	path = Tweaks/IAmYouTube
+	url = https://github.com/PoomSmart/IAmYouTube.git
+[submodule "Tweaks/YTClassicVideoQuality"]
+	path = Tweaks/YTClassicVideoQuality
+	url = https://github.com/PoomSmart/YTClassicVideoQuality.git
+[submodule "Tweaks/NoYTPremium"]
+	path = Tweaks/NoYTPremium
+	url = https://github.com/PoomSmart/NoYTPremium.git
+[submodule "Tweaks/YTSpeed"]
+	path = Tweaks/YTSpeed
+	url = https://github.com/therealFoxster/YTSpeed.git
